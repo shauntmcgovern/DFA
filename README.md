@@ -1,6 +1,6 @@
 //'(//')Github{CodeSpaces}'{Configuration}#809:-;
-//ls -la
-//cd DFABUilder_Final
+//ls -la \
+//cd DFABUilder_Final \
 
 //pkill Xvfb
 //Xvfb :1 -screen 0 1024x768x16 &
